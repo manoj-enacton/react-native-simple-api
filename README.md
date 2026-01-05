@@ -31,8 +31,6 @@ npm install react-native-simple-api jotai
 
 ## 🚀 Basic Usage
 
-tsx
-Copy code
 import { useApi } from 'react-native-simple-api';
 
 const fetchUsers = async () => {
